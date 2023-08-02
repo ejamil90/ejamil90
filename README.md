@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Esaam Jamil
-- 👀 I’m interested in computer-based skills building
+- 👀 I’m interested in computer-based skills' building
 - 🌱 I’m currently learning Python on Coursera by Charles Severance
 - 💞️ I’m looking to network with people
 - 📫 How to reach me https://www.linkedin.com/in/ejamil/
